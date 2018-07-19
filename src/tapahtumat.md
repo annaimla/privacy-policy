@@ -6,7 +6,7 @@ css: https://rekisterit.teekkarispeksi.fi/style.css
 Tämä on EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri- ja tietosuojaseloste.
 
 Laatimispäivämäärä: 21.5.2018  
-Viimeisin muutos: 22.5.2018
+Viimeisin muutos: 19.7.2018
 
 ## 1. Rekisterinpitäjä
 
@@ -16,7 +16,7 @@ Y-tunnus: 1888541-7
 
 ## 2. Rekisteristä vastaava yhteyshenkilö
 
-Puheenjohtaja Anna Äimälä 
+Puheenjohtaja Roope Vesterinen 
 [puheenjohtaja@teekkarispeksi.fi](mailto:puheenjohtaja@teekkarispeksi.fi)
 
 ## 3. Rekisterin nimi
